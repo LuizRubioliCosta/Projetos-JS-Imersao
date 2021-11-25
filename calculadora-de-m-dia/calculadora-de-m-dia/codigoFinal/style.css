@@ -1,0 +1,47 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://image.flaticon.com/icons/png/512/201/201635.png');
+  background-color: azure;
+  background-size: 80vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#000;
+  margin: 0 0 5px;
+  font-weight: 900;
+}
+
+.page-subtitle {
+  color:#000;
+  margin-top: 5px;
+  font-weight: bolder;
+}
+
+
+p{
+  color:red;
+  font-weight: bold;
+}
+
+.resultado{
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+
+#corpo{
+  background-color:blueviolet;
+  max-width: 300px;
+  margin-top: 145px;
+  display: inline-block;
+}
